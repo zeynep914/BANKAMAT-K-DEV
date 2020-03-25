@@ -1,0 +1,2 @@
+# BANKAMAT-K-DEV
+ÖDEV 1
